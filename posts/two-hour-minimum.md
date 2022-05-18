@@ -7,8 +7,7 @@ date: "2022-05-20"
 
 Have you been working in the world of gigs and tasks? If so, you know it can be tough, rewarding work that requires constant flexibility. Read on to learn about a simple superpower for managing client flow that many of today's freelancers could use a refresher on.
 
-> [!Info]
-> This applies best for workers on a platform like TaskRabbit, where you set your own rates across a range of skillsets.
+> _This applies best for workers on a platform like TaskRabbit, where you set your own rates across a range of skill sets._
 
 ## What it means to gig
 
