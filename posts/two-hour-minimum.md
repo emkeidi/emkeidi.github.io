@@ -10,7 +10,7 @@ Have you been working in the world of gigs and tasks? If so, you know it can be 
 > [!Info]
 > This applies best for workers on a platform like TaskRabbit, where you set your own rates across a range of skillsets.
 
-## What it means to gig {: #what-it-means-to-gig}
+## [What it means to gig](#what-it-means-to-gig)
 
 While gig work seems is more ubiquitous than ever, the number of workers in the United States that participate in this market remains low compared to typical employment.
 
@@ -18,7 +18,7 @@ According to [Pew Research](https://www.pewresearch.org/internet/2021/12/08/the-
 
 While most workers report that gig work is side-income, only 3% currently do this full-time. If you are aiming to successfully be a part of that small slice of workers, I highly recommend you read on about billing practices.
 
-A lot of workers enjoy the flexibility that comes with being your own boss, and it is easier today than ever to start! Sure, a platform like TaskRabbit or Upwork will collect a significant fee for connecting you with clients, however it should not be undervalued how little canvassing is required of the modern gig worker.
+A lot of workers enjoy the flexibility that comes with being your own boss, and it is easier today than ever to start! Sure, a platform like TaskRabbit will collect a fee for connecting you with clients, however it should not be undervalued how little canvassing is required of the modern gig worker.
 
 Transitioning from traditional employment can be overwhelming at first, as there is a lot to learn about offering professional services - especially the money part. How you are taxed and how you obtain benefits are completely different processes now.
 
