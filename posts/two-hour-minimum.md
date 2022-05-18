@@ -9,8 +9,7 @@ Have you been working in the world of gigs and tasks? If so, you know it can be 
 
 > _This applies best for workers on a platform like TaskRabbit, where you set your own rates across a range of skill sets._
 
-<Link href="#what-it-means-to-gig" scroll={false}>
-<a><h2 id="what-it-means-to-gig"> What it means to gig</h2></a></Link>
+## What it means to gig
 
 While gig work seems is more ubiquitous than ever, the number of workers in the United States that participate in this market remains low compared to typical employment.
 
