@@ -10,7 +10,7 @@ Have you been working in the world of gigs and tasks? If so, you know it can be 
 > [!Info]
 > This applies best for workers on a platform like TaskRabbit, where you set your own rates across a range of skillsets.
 
-## [What it means to gig](#what-it-means-to-gig)
+## What it means to gig
 
 While gig work seems is more ubiquitous than ever, the number of workers in the United States that participate in this market remains low compared to typical employment.
 
@@ -26,4 +26,4 @@ In the United States, this means you will not be an employee for a company, inst
 
 Now, this can sound silly when you're gliding down 5th Avenue with a grass-fed burger and shake for Amanda in SoHo, but it is **the most important distinction to clarify**.
 
-## Why Two Hour Minimum is Non-negotiable {: #why-two-hour-minimum}
+## Why Two Hour Minimum is Non-negotiable
