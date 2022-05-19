@@ -1,6 +1,6 @@
 ---
 title: "So how do I judge all of this information?"
-date: "2022-05-xx"
+date: "2022-05-27"
 ---
 
 # Help, there's too much information.
