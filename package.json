@@ -23,6 +23,7 @@
     "remark-html": "^15.0.1"
   },
   "devDependencies": {
-    "sass": "^1.50.1"
+    "sass": "^1.50.1",
+    "webpack": "^5.72.1"
   }
 }
