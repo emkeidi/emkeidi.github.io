@@ -55,8 +55,6 @@ Bumping up to $150 each work day brings yearly pay before taxes to $37,500 which
 
 Until you're clearing an average of $200 or more each working day of the year to reach $50,000, you might not be satisfied. The current rate of inflation has many workers feeling vulnerable and worried whether their income can keep up with rising costs.
 
-## Salary Chart
-
 | Daily Earning | Yearly Gross |
 | ------------- | ------------ |
 | $100          | $25,000      |
