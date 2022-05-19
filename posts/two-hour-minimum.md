@@ -95,5 +95,5 @@ This quote by Warren Buffet has been bandied all over the web and it seems no on
 
 # Sources
 
-[Pew Research Center](https://www.pewresearch.org/internet/2021/12/08/the-state-of-gig-work-in-2021/)
-[Man With a Van UK](https://manwithavan.co.uk/blog/the-two-hour-minimum-charge-explained)
+1. [Pew Research Center](https://www.pewresearch.org/internet/2021/12/08/the-state-of-gig-work-in-2021/)
+2. [Man With a Van UK](https://manwithavan.co.uk/blog/the-two-hour-minimum-charge-explained)
