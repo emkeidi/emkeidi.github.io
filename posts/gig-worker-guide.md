@@ -108,7 +108,7 @@ _Your daily earnings are likely to fluctuate, so keeping a chart like this can h
 
 Remember, as an independent contractor, this is the whole pie. There are no bonuses, 401k-matches, stock options, or health insurance plans on top of your take-home pay. I know many readers don't need this reminder, but these are perks that your clients may not think of when balking at your minimum.
 
-What you can charge and the level of demand for your work depend on individual circumstances. Let's say that we're doing these calculations in a populous US city. These are the areas where gig workers naturally find most demand.
+What you can charge and the level of demand for your work depend on individual circumstances. Let's say that we're doing these calculations in a populous U.S. city. These are the areas where gig workers naturally find most demand.
 
 Imagine, for a moment, proclaiming that you are now open for business in Brisbee, Arizona, population: 5,209:
 
