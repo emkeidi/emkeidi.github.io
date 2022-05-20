@@ -57,11 +57,11 @@ Until you're clearing an average of $200 or more each working day of the year to
 
 | Daily Earning |     | Yearly Gross |
 | ------------- | :-: | :----------: |
-| $100          |     |   $25,000    |
-| $150          |     |   $37,500    |
-| $200          |     |   $50,000    |
-| $300          |     |   $75,000    |
-| $500          |     |   $125,000   |
+| $100          |  =  |   $25,000    |
+| $150          |  =  |   $37,500    |
+| $200          |  =  |   $50,000    |
+| $300          |  =  |   $75,000    |
+| $500          |  =  |   $125,000   |
 
 _Your daily earnings are likely to fluctuate, so keeping a chart like this can help you estimate. \*Based on 250 working days._
 
