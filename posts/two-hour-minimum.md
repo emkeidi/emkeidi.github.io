@@ -22,8 +22,7 @@ These are some serious numbers indicating huge demand for temporary workers. We'
 
 Since gig work has a coin flip's chance of being a part of your career path (if it isn't already), let's get into why you should set up your business with a two-hour minimum in place.
 
-> [!Note]
-> This post is for workers who **set their own rates** in response to the market. Uber/Lyft/Grubhub/Postmates rates are not determined by the worker. Many gig workers use multiple platforms to minimize downtime. Some do this on the side of a full-time or part-time job, while others combine gig work with larger freelance projects.
+This post is for workers who **set their own rates**. Uber/Lyft/Grubhub/Postmates rates are not determined by the worker. Many gig workers use multiple platforms to minimize downtime. Some do this on the side of a full-time or part-time job, while others combine gig work with larger freelance projects.
 
 ![](/images/wage_info_screenshot.png)
 _Source: Wagedev.com, screenshot of larger infographic_
