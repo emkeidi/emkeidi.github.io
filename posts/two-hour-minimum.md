@@ -50,7 +50,7 @@ You can argue that there is not really room to grow with a platform like TaskRab
 
 It's either that or time to give up your sweet autonomy for _the man_. For real, though, there is nothing wrong with gigging full-time or working a W2 job while gigging.
 
-![](/public/images/elephant_tv_mount.jpg)
+![](/images/elephant_tv_mount.jpg)
 _Finished result of one of my mounting tasks._
 
 ## Why Two Hour Minimum is Non-Negotiable
@@ -80,7 +80,7 @@ As for how to explain this to clients, we will cover that a bit later on. The me
 
 \- 04 May 2017 on ManwithaVan.co.uk
 
-![](/public/images/london_map.png)
+![](/images/london_map.png)
 _Being able to service the entirety of London must take a lot of time._
 
 ---
@@ -115,7 +115,7 @@ What you can charge and the level of demand for your work depend on individual c
 
 Imagine, for a moment, proclaiming that you are now open for business in Brisbee, Arizona, population: 5,209:
 
-![](/public/images/Brisbee_Arizona_Population.png)
+![](/images/Brisbee_Arizona_Population.png)
 _Source: The Travel, "12 Cities With The Least Population In The USA"_
 
 You don't have to be a statistician to understand why your odds will be better in a city with with 20 times more people. Or 1500 times more people.
@@ -128,7 +128,7 @@ Some clients will protest that they do not need you for two hours, and this migh
 
 Do make sure you **always get confirmation in writing** from your client before the job starts so that there can be no ambiguity. On the platform TaskRabbit, there is an option to turn on "I have a 2 hour minimum". In a reddit thread about this feature, one redditor even offers an approach to confirming your minimum with prospective clients:
 
-![](/public/images/taskrabbit_reddit_two_hour_comment.png)
+![](/images/taskrabbit_reddit_two_hour_comment.png)
 
 There will always be some clients that ghost when you mention a minimum. This behavior is precisely what prompted me to put this writing together. When you are negotiating with a client who is looking for the cheapest deal possible, chances are that this client will be difficult to satisfy _no matter how great your performance_.
 
@@ -140,7 +140,7 @@ Now, if the pushback in your particular market is so strong that you worry about
 
 If you do decide to entertain clients for "only an hour" or so, do be sure to boost your rate accordingly. This will have a compounding effect on longer jobs, and could be the push you need to consider billing methods that are not based on hours and minutes and instead based on projects and results.
 
-![](/public/images/cottonbro_time.jpg)
+![](/images/cottonbro_time.jpg)
 _Source: cottonbro on Pexels_
 
 ## Future Goal: Decoupling from the Clock
@@ -161,7 +161,7 @@ Raising rates is an essential part of being your own boss, but it doesn't have t
 
 I leave you with this quote by Warren Buffet that has been bandied all over the web and it seems no one can remember when he said it. If you do know, please email me to settle this once and for all.
 
-![](/public/images/Warren_Buffett_Quote.jpg)
+![](/images/Warren_Buffett_Quote.jpg)
 _Quotefancy_
 
 Once you've set up the gig + freelance + job workflow of your dreams, it's a good time to start planning for the future. Perhaps it's time to look into SEP-IRA accounts or setting up an LLC.
