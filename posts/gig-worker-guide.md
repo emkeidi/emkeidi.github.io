@@ -31,7 +31,7 @@ While most workers report that gig work is side-income, only a third do this ful
 
 A lot of workers enjoy the flexibility that comes with being your own boss, and it's easier than ever to start. Sure, a platform like TaskRabbit or Upwork will collect a fee for connecting you with clients, however it should not be undervalued how much marketing these platforms pay for which builds trust. Trust is crucial when you work largely with strangers.
 
-This is a good time to note that many, if not all of these platforms will perform a background check when you sign-up and paying a fee for this is not unusual.
+This is a good time to note that many, if not all of these platforms will perform a background check when you sign up and paying a fee for this is not unusual.
 
 Transitioning from traditional employment can be overwhelming at first, as there is a lot to learn about operating as an independent contractor - especially the money part. How you are taxed and how you obtain benefits are completely different processes now.
 
