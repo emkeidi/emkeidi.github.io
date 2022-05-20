@@ -3,8 +3,6 @@ title: "A Gig Worker's Guide to Setting Rates"
 date: "2022-05-20"
 ---
 
-# A Gig Worker's Guide to Setting Rates
-
 Have you been working in the world of gigs and tasks? If so, you know it can be tough, rewarding work that requires constant flexibility.
 
 Read on to learn when and why you should be charging a two-hour minimum - and how to implement it.
