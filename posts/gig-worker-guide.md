@@ -129,7 +129,7 @@ Do make sure you **always get confirmation in writing** from your client before 
 
 There will always be some clients that ghost when you mention a minimum. This behavior is precisely what prompted me to put this writing together. When you are negotiating with a client who is looking for the cheapest deal possible, chances are that this client will be difficult to satisfy _no matter how great your performance_.
 
-I would go further to guess that clients that "_just have 45 minutes of simple work :(_" have never offered their services as an gig worker.
+I would go further to guess that clients that "_just have 45 minutes of simple work :(_" have never offered their services as a gig worker.
 
 Instantiating a two-hour minimum is a simple way to filter out clients who may be harder to work with than they're worth. In almost all forms of gig work today, your reputation is on the line with **each job you accept**.
 
