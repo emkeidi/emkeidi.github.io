@@ -65,11 +65,11 @@ Quite a few of these positions require you to travel to new locations, often for
 
 ### How a Minimum Helps Your Business
 
-- **You need to be able to deliver** consistent results for your clients in order to build up a positive reputation.
-- **This is easier to do if you have better baseline** pay coming in for each job.
-- **Giving away tiny chunks** of your time will only benefit the client and never benefit you.
-  - **Have you ever traveled 2 hours** for a job that took 30 minutes to complete?
-  - **If you want to only charge the client for "one hour"**, raise your rates to protect your baseline.
+- You need to be able to deliver consistent results for your clients in order to build up a positive reputation.
+- This is easier to do if you have better baseline pay coming in for each job.
+- Giving away tiny chunks of your time will only benefit the client and never benefit you.
+  - Have you ever traveled 2 hours for a job that took 30 minutes to complete?
+  - If you want to only charge the client for "one hour", raise your rates to protect your baseline.
 
 As for how to explain this to clients, we will cover that a bit later on. The message can be quickly summed up by the following quote from a moving business based in London.
 
@@ -117,7 +117,7 @@ _Source: The Travel, "12 Cities With The Least Population In The USA"_
 
 You don't have to be a statistician to understand why your odds will be better in a city with with 20 times more people. Or 1500 times more people.
 
-When choosing a life of gig work and freelance you have to first consider how realistic this plan is given your area's population level, average income, and whether this can be something you're even able to do full-time. I have yet to explore the nomadic freelance lifestyle, and perhaps that is where untapped potential lies. #nomadlife
+When choosing a life of gig work and freelance you have to first consider how realistic this plan is given your area's population level, average income, and whether this can be something you're even able to do full-time. I have yet to explore the nomadic freelance lifestyle, and perhaps that is where untapped potential lies.
 
 ## How to Market the Minimum
 
