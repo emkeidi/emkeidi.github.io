@@ -168,10 +168,6 @@ Once you've set up the gig + freelance + job workflow of your dreams, it's a goo
 
 Also, make sure to take a quick breather.
 
-#### tags
-
-#freelance #gig-work #finance
-
 ---
 
 # Sources
