@@ -10,7 +10,7 @@ Have you been working in the world of gigs and tasks? If so, you know it can be 
 Read on to learn when and why you should be charging a two-hour minimum - and how to implement it.
 
 ![receipt](/images/towfiqu_barbhuiya_xkArbdUcUeE_unsplash.jpg)
-_Source: Unsplash, Towfiqu barbhuiya @towfiqu999999_
+_Source: Unsplash, Towfiqu barbhuiya_
 
 ## What it Means to Gig
 
@@ -144,7 +144,7 @@ _Source: cottonbro on Pexels_
 
 ## Future Goal: Decoupling from the Clock
 
-We've spent a while discussing why freelancers should be charging a minimum of _at least_ two hours for their skills.
+We've spent a while discussing why you should be charging a minimum of _at least_ two hours for your high-quality gig work.
 
 Once this is achieved, I think the next step is to start thinking about how to become free from the clock. This means thinking about day rates, project rates, and retainers. These are the keys to shifting your career, allowing you to expand your focus while charging higher rates.
 
@@ -163,7 +163,7 @@ I leave you with this quote by Warren Buffet that has been bandied all over the 
 ![](/images/Warren_Buffett_Quote.jpg)
 _Quotefancy_
 
-Once you've set up the gig + freelance + job workflow of your dreams, it's a good time to start planning for the future. Perhaps it's time to look into SEP-IRA accounts or setting up an LLC.
+Once you've set up the gig + freelance + job workflow of your dreams, it's a good time to start planning for the future. Perhaps it's time to look into Simplified Employee Pension Plans for your Individual Retirement Account (SEP-IRA), or set up shop as a Limited Liability Company (LLC).
 
 Also, make sure to take a quick breather.
 
