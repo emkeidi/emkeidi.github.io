@@ -9,7 +9,7 @@ Have you been working in the world of gigs and tasks? If so, you know it can be 
 
 Read on to learn when and why you should be charging a two-hour minimum - and how to implement it.
 
-![receipt](/images/towfiqu-barbhuiya-xkArbdUcUeE-unsplash.jpg)
+![receipt](/images/towfiqu_barbhuiya_xkArbdUcUeE_unsplash.jpg)
 _Source: Unsplash, Towfiqu barbhuiya @towfiqu999999_
 
 ## What it Means to Gig
@@ -25,7 +25,7 @@ Since gig work has a coin flip's chance of being a part of your career path (if 
 > [!Note]
 > This post is for workers who **set their own rates** in response to the market. Uber/Lyft/Grubhub/Postmates rates are not determined by the worker. Many gig workers use multiple platforms to minimize downtime. Some do this on the side of a full-time or part-time job, while others combine gig work with larger freelance projects.
 
-![](/public/images/wage-info-screenshot.png)
+![](/images/wage_info_screenshot.png)
 _Source: Wagedev.com, screenshot of larger infographic_
 
 While most workers report that gig work is side-income, only a third do this full-time. If you are aiming to successfully be a part of that small slice of workers - _3% of the U.S. workforce_ - then you need to think carefully about your rates.
@@ -50,7 +50,7 @@ You can argue that there is not really room to grow with a platform like TaskRab
 
 It's either that or time to give up your sweet autonomy for _the man_. For real, though, there is nothing wrong with gigging full-time or working a W2 job while gigging.
 
-![](/public/images/elephant-tv-mount.jpg)
+![](/public/images/elephant_tv_mount.jpg)
 _Finished result of one of my mounting tasks._
 
 ## Why Two Hour Minimum is Non-Negotiable
@@ -80,7 +80,7 @@ As for how to explain this to clients, we will cover that a bit later on. The me
 
 \- 04 May 2017 on ManwithaVan.co.uk
 
-![](/public/images/london-map.png)
+![](/public/images/london_map.png)
 _Being able to service the entirety of London must take a lot of time._
 
 ---
@@ -115,7 +115,7 @@ What you can charge and the level of demand for your work depend on individual c
 
 Imagine, for a moment, proclaiming that you are now open for business in Brisbee, Arizona, population: 5,209:
 
-![](/public/images/Brisbee-Arizona-Population.png)
+![](/public/images/Brisbee_Arizona_Population.png)
 _Source: The Travel, "12 Cities With The Least Population In The USA"_
 
 You don't have to be a statistician to understand why your odds will be better in a city with with 20 times more people. Or 1500 times more people.
@@ -128,7 +128,7 @@ Some clients will protest that they do not need you for two hours, and this migh
 
 Do make sure you **always get confirmation in writing** from your client before the job starts so that there can be no ambiguity. On the platform TaskRabbit, there is an option to turn on "I have a 2 hour minimum". In a reddit thread about this feature, one redditor even offers an approach to confirming your minimum with prospective clients:
 
-![](/public/images/taskrabbit-reddit-two-hour-comment.png)
+![](/public/images/taskrabbit_reddit_two_hour_comment.png)
 
 There will always be some clients that ghost when you mention a minimum. This behavior is precisely what prompted me to put this writing together. When you are negotiating with a client who is looking for the cheapest deal possible, chances are that this client will be difficult to satisfy _no matter how great your performance_.
 
@@ -140,7 +140,7 @@ Now, if the pushback in your particular market is so strong that you worry about
 
 If you do decide to entertain clients for "only an hour" or so, do be sure to boost your rate accordingly. This will have a compounding effect on longer jobs, and could be the push you need to consider billing methods that are not based on hours and minutes and instead based on projects and results.
 
-![](/public/images/cottonbro-time.jpg)
+![](/public/images/cottonbro_time.jpg)
 _Source: cottonbro on Pexels_
 
 ## Future Goal: Decoupling from the Clock
@@ -161,7 +161,7 @@ Raising rates is an essential part of being your own boss, but it doesn't have t
 
 I leave you with this quote by Warren Buffet that has been bandied all over the web and it seems no one can remember when he said it. If you do know, please email me to settle this once and for all.
 
-![](/public/images/Warren-Buffett-Quote-If-you-don-t-find-a-way-to-make-money-while.jpg)
+![](/public/images/Warren_Buffett_Quote.jpg)
 _Quotefancy_
 
 Once you've set up the gig + freelance + job workflow of your dreams, it's a good time to start planning for the future. Perhaps it's time to look into SEP-IRA accounts or setting up an LLC.
