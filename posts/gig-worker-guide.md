@@ -172,6 +172,5 @@ Also, make sure to take a quick breather.
 1. [Pew Research Center](https://www.pewresearch.org/internet/2021/12/08/the-state-of-gig-work-in-2021/)
 2. [Man With a Van UK](https://manwithavan.co.uk/blog/the-two-hour-minimum-charge-explained)
 3. [Transport Executive](https://www.transport-executive.co.uk/two-hour-minimum-charge/)
-4. [Ask a House Cleaner](https://askahousecleaner.com/two-hour-minimum-for-house-cleaning/)
-5. [Wage Dev](https://www.wagedev.com/how-the-global-pandemic-transformed-the-gig-economy/)
-6. [Zippia](https://www.zippia.com/advice/gig-economy-statistics/#:~:text=According%20to%20our%20extensive%20research,36%25%20of%20the%20U.S.%20workforce.)
+4. [Wage Dev](https://www.wagedev.com/how-the-global-pandemic-transformed-the-gig-economy/)
+5. [Zippia](https://www.zippia.com/advice/gig-economy-statistics/#:~:text=According%20to%20our%20extensive%20research,36%25%20of%20the%20U.S.%20workforce.)
