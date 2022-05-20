@@ -9,7 +9,7 @@ Have you been working in the world of gigs and tasks? If so, you know it can be 
 
 Read on to learn when and why you should be charging a two-hour minimum - and how to implement it.
 
-![receipt](/public/images/towfiqu-barbhuiya-xkArbdUcUeE-unsplash.jpg)
+![receipt](public/images/towfiqu-barbhuiya-xkArbdUcUeE-unsplash.jpg)
 _Source: Unsplash, Towfiqu barbhuiya @towfiqu999999_
 
 ## What it Means to Gig
