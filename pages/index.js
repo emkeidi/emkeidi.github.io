@@ -1,14 +1,14 @@
-import Head from 'next/head'
-import Layout, { siteTitle } from '../components/layout'
-import utilStyles from '../styles/utils.module.css'
-import Link from 'next/link'
-import { getSortedPostsData } from '../lib/posts'
-import Date from '../components/date'
+import Head from "next/head"
+import Layout, { siteTitle } from "../components/layout"
+import utilStyles from "../styles/utils.module.css"
+import Link from "next/link"
+import { getSortedPostsData } from "../lib/posts"
+import Date from "../components/date"
 
 export async function getStaticProps() {
   const allPostsData = getSortedPostsData()
   return {
-    props: ({ allPostsData })
+    props: { allPostsData },
   }
 }
 
@@ -19,9 +19,16 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello, I'm <strong>Matt</strong>. I'm learning about software development.</p>
         <p>
-          You can follow my progress on <a href="https://github.com/emkeidi" target="blank">GitHub</a>.
+          Hello, I'm <strong>Matt</strong>. My days consist of freelance
+          writing, the gig economy, and learning about software development.
+        </p>
+        <p>
+          You can follow my coding progress on{" "}
+          <a href="https://github.com/emkeidi" target="blank">
+            GitHub
+          </a>
+          .
         </p>
       </section>
 
@@ -38,7 +45,7 @@ export default function Home({ allPostsData }) {
                 <Date dateString={date} />
               </small>
             </li>
-           ))}
+          ))}
         </ul>
       </section>
     </Layout>
