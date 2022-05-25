@@ -61,7 +61,7 @@ Fields where it is common to see two-hour minimums enforced include:
 - IT professionals
 - Copywriters
 
-Quite a few of these positions require you to travel to new locations, often for only an hour two of work. It is easy to spend more time scoping, preparing, and travelling to a job than it will take you to complete the task.
+Quite a few of these positions require you to travel to new locations, often for only an hour or two of work. It is easy to spend more time scoping, preparing, and travelling to a job than it will take you to complete the task.
 
 ### How a Minimum Helps Your Business
 
