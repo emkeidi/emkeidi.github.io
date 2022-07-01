@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Higher:Lower Game</title>
+
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Higher:Lower</h1>
+    </header>
+    <div class="container">
+      <p>
+        The game where you set the maximum number and then you guess a randomly
+        selected number between 1 and
+        <em>your input</em>.
+      </p>
+      <p class="text-success">Good luck!</p>
+      <div class="row">
+        <div class="col">
+          <form>
+            <div class="form-group">
+              <label><h2>Guess the number:</h2></label>
+              <input type="text" id="guess" class="form-control" />
+            </div>
+            <div class="btn-toolbar">
+              <button
+                type="button"
+                class="btn btn-outline-primary mx-auto my-4"
+                onclick="
+            do_guess()"
+              >
+                Guess
+              </button>
+            </div>
+          </form>
+        </div>
+      </div>
+      <p class="text-secondary" id="message"></p>
+    </div>
+
+    <!-- JavaScript Bundle with Popper -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.5/dist/umd/popper.min.js"
+      integrity="sha384-Xe+8cL9oJa6tN/veChSP7q+mnSPaj5Bcu9mPX5F5xIGE0DVittaqT5lorf0EI7Vk"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.min.js"
+      integrity="sha384-kjU+l4N0Yf4ZOJErLsIcvOU2qSb74wXpOhqTvwVx3OElZRweTnQ6d31fXEoRD1Jy"
+      crossorigin="anonymous"
+    ></script>
+    <script src="funcs.js"></script>
+    <script src="scripts.js"></script>
+  </body>
+</html>
