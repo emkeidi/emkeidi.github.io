@@ -5,7 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Higher:Lower Game</title>
-
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
@@ -14,17 +19,28 @@
     </header>
     <div class="container">
       <p>
-        The game where you set the maximum number and then you guess a randomly
-        selected number between 1 and
-        <em>your input</em>.
+        When the page loads, set the maximum number in the pop-up. A random
+        number between 1 and your maximum is chosen by the game. Decimals will
+        be rounded. Click the guess button to submit.
       </p>
       <p class="text-success">Good luck!</p>
-      <div class="row">
+      <div class="row justify-content-center text-center">
         <div class="col">
-          <form>
+          <form class="form-inline">
             <div class="form-group">
-              <label><h2>Guess the number:</h2></label>
-              <input type="text" id="guess" class="form-control" />
+              <div class="form-group">
+                <label
+                  class="col-form-label col-form-label-lg mt-4"
+                  for="inputLarge"
+                  >Guess the number:</label
+                >
+                <input
+                  class="form-control form-control-lg"
+                  type="text"
+                  placeholder="Enter"
+                  id="guess"
+                />
+              </div>
             </div>
             <div class="btn-toolbar">
               <button
@@ -44,13 +60,8 @@
 
     <!-- JavaScript Bundle with Popper -->
     <script
-      src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.5/dist/umd/popper.min.js"
-      integrity="sha384-Xe+8cL9oJa6tN/veChSP7q+mnSPaj5Bcu9mPX5F5xIGE0DVittaqT5lorf0EI7Vk"
-      crossorigin="anonymous"
-    ></script>
-    <script
-      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.min.js"
-      integrity="sha384-kjU+l4N0Yf4ZOJErLsIcvOU2qSb74wXpOhqTvwVx3OElZRweTnQ6d31fXEoRD1Jy"
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
       crossorigin="anonymous"
     ></script>
     <script src="funcs.js"></script>
